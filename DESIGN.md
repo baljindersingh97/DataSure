@@ -435,8 +435,9 @@ On 11 September 2026, the following command was executed using Python 3.14.6:
 python -m unittest -v
 ```
 
-Result: **26 tests passed**. Compilation of all three Python files and a hidden
-GUI-construction smoke test also completed successfully.
+Result: **26 tests passed**. Compilation of all three Python files, a hidden
+GUI-construction smoke test, and a hidden end-to-end GUI workflow containing
+four preview rows and seven displayed issues also completed successfully.
 
 Automated coverage includes:
 
