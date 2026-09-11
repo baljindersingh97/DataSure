@@ -1,0 +1,19 @@
+{
+  "student_id": [
+    {"type": "required"},
+    {"type": "integer"},
+    {"type": "unique"}
+  ],
+  "name": [
+    {"type": "required"}
+  ],
+  "email": [
+    {"type": "required"},
+    {"type": "email"}
+  ],
+  "age": [
+    {"type": "required"},
+    {"type": "integer"},
+    {"type": "range", "minimum": 18, "maximum": 100}
+  ]
+}

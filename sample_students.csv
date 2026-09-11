@@ -1,0 +1,5 @@
+student_id,name,email,age
+1001,Alice,alice@example.com,21
+1002,,invalid-email,17
+1001,Bob,bob@example.com,twenty
+1004,Chloe,chloe@example.com,25
