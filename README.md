@@ -159,7 +159,7 @@ than adding unrelated features.
 
 ## Submission links
 
-- GitHub repository: **ADD ACCESSIBLE REPOSITORY URL BEFORE SUBMISSION**
+- GitHub repository: <https://github.com/baljindersingh97/DataSure>
 - Demonstration video: **ADD ACCESSIBLE VIDEO URL BEFORE SUBMISSION**
 
 ## Author
